@@ -1,2 +1,2 @@
 # Cinnacord
-a modified version of discord
+a modified version of discord for mobile
